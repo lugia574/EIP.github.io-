@@ -30,6 +30,8 @@
 
 - 인프런 정보처리기사 실기 (2020 개정) part 2
 
+- [C 언어 코딩도장](https://dojang.io/course/view.php?id=2)
+
 - [코딩하는 핑가](https://ss-o.tistory.com/110?category=967966)
 
 등이 있다.
@@ -41,3 +43,5 @@
 - [프로그래밍 언어 활용A](https://github.com/lugia574/EIP.github.io-/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9A.md)
 
 - [프로그래밍 언어 활용B](https://github.com/lugia574/EIP.github.io-/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9B.md)
+
+- [프로그래밍 언어 활용C](https://github.com/lugia574/EIP.github.io-/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9C.md)
