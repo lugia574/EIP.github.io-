@@ -197,6 +197,8 @@ printf(서식, 변수);
 */
 ```
 
+[진수 자바 표현](https://darksilber.tistory.com/21)
+
 ```c
 
 char c;
