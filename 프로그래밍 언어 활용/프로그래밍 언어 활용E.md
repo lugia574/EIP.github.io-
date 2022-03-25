@@ -43,8 +43,148 @@ finally:
 
 ![문제1](/img/%EB%AC%B8%EC%A0%9C1.png)
 
-> A + A + A
+<details>
+<summary>정답</summary>
+A + A + A
+</details>
 
 #### 문제 2
 
 ![문제2](/img/%EB%AC%B8%EC%A0%9C2.png)
+
+<details>
+<summary>정답</summary>
+10 10 10
+</details>
+
+#### 문제 3
+
+![문제3](/img/%EB%AC%B8%EC%A0%9C3.png)
+
+<details>
+<summary>정답</summary>
+3.14 3.14 0.12345678 0.123456789
+
+double 은 8자리까지
+float 9자리
+
+</details>
+
+#### 문제 4
+
+![문제4](/img/%EB%AC%B8%EC%A0%9C4.png)
+
+<details>
+<summary>정답</summary>
+11 11 10 <br>
+11 21 20
+</details>
+
+#### 문제 5
+
+![문제5](/img/%EB%AC%B8%EC%A0%9C5.png)
+
+<details>
+<summary>정답</summary>
+true <br>
+false <br>
+true <br>
+</details>
+
+#### 문제 6
+
+![문제6](/img/%EB%AC%B8%EC%A0%9C6.png)
+
+<details>
+<summary>정답</summary>
+대문자입니다. <br>
+2 또는 3의 배수입니다.<br>
+</details>
+
+#### 문제 7
+
+![문제7](/img/%EB%AC%B8%EC%A0%9C7.png)
+
+이거 설명 들어보자
+
+<details>
+<summary>정답</summary>
+45 25  <br>
+</details>
+
+#### 문제 8
+
+![문제8](/img/%EB%AC%B8%EC%A0%9C8.png)
+
+<details>
+<summary>정답</summary>
+90 90  <br>
+</details>
+
+#### 문제 9
+
+![문제9](/img/%EB%AC%B8%EC%A0%9C9.png)
+
+<details>
+<summary>정답</summary>
+3번입니다.  <br>
+</details>
+
+#### 문제 10
+
+![문제10](/img/%EB%AC%B8%EC%A0%9C10.png)
+
+<details>
+<summary>정답</summary>
+1부터 10까지 합 : 55  <br>
+</details>
+
+#### 문제 11
+
+![문제11](/img/%EB%AC%B8%EC%A0%9C11.png)
+
+<details>
+<summary>정답</summary>
+1 <br>
+2 <br>
+3 <br>
+4 <br>
+5 <br>
+종료 5 <br>
+</details>
+
+#### 문제 12
+
+![문제12](/img/%EB%AC%B8%EC%A0%9C12.png)
+
+<details>
+<summary>정답</summary>
+1  <br>
+3  <br>
+5  <br>
+7  <br>
+9  <br>
+홀수의 합 25  <br>
+</details>
+
+#### 문제 13
+
+![문제13](/img/%EB%AC%B8%EC%A0%9C13.png)
+
+<details>
+<summary>정답</summary>
+88  <br>
+77  <br>
+99  <br>
+ 총점  264 <br>
+ 배열의 길이 3  <br>
+</details>
+
+#### 문제 14
+
+![문제14](/img/%EB%AC%B8%EC%A0%9C14.png)
+
+<details>
+<summary>정답</summary>
+1부터 10까지 합 : 55  <br>
+</details>
