@@ -63,10 +63,10 @@ A + A + A
 
 <details>
 <summary>정답</summary>
-3.14 3.14 0.12345678 0.123456789
+3.14 3.14 0.12345678901234568 0.123456789
 
-double 은 8자리까지
-float 9자리
+double 은 17자리까지 반올림
+float 8자리하고 반올림
 
 </details>
 
@@ -105,12 +105,28 @@ true <br>
 
 ![문제7](/img/%EB%AC%B8%EC%A0%9C7.png)
 
-이거 설명 들어보자
-
 <details>
 <summary>정답</summary>
 45 25  <br>
 </details>
+
+이거 설명 들어보자
+
+※ 쉽게 2진법으로 전환하기
+
+    45를 2진법으로
+
+    ....    32  16  8   4   2   1
+    ....    1   0   1   1   0   1
+
+    이런식으로 쌉 가능
+
+    그렇다면 25을 해보자
+
+    ....    32   16  8   4   2   1
+    ....    0    1   1   0   0   1
+
+    이렇게 됨
 
 #### 문제 8
 
@@ -118,7 +134,7 @@ true <br>
 
 <details>
 <summary>정답</summary>
-90 90  <br>
+90 A  <br>
 </details>
 
 #### 문제 9
@@ -220,18 +236,26 @@ true <br>
 
 <details>
 <summary>정답</summary>
-a 가<br>
+80 가<br>
 </details>
 
 #### 문제 18
+
+![문제18](/img/%EB%AC%B8%EC%A0%9C18.png)
+
+<details>
+<summary>정답</summary>
+10 5 <br>
+true <br>
+false <br>
+
+</details>
+
+#### 문제 19
 
 ![문제19](/img/%EB%AC%B8%EC%A0%9C19.png)
 
 <details>
 <summary>정답</summary>
-10 <br>
-20 <br>
-30 <br>
-40 <br>
-50 <br>
+3747576777 <br>
 </details>
