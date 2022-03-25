@@ -41,7 +41,7 @@ finally:
 
 #### 문제 1
 
-![문제1](/img/%EB%AC%B8%EC%A0%9C1.png)
+![문제1](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C1.png)
 
 <details>
 <summary>정답</summary>
@@ -50,7 +50,7 @@ A + A + A
 
 #### 문제 2
 
-![문제2](/img/%EB%AC%B8%EC%A0%9C2.png)
+![문제2](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C2.png)
 
 <details>
 <summary>정답</summary>
@@ -59,7 +59,7 @@ A + A + A
 
 #### 문제 3
 
-![문제3](/img/%EB%AC%B8%EC%A0%9C3.png)
+![문제3](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C3.png)
 
 <details>
 <summary>정답</summary>
@@ -72,7 +72,7 @@ float 8자리하고 반올림
 
 #### 문제 4
 
-![문제4](/img/%EB%AC%B8%EC%A0%9C4.png)
+![문제4](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C4.png)
 
 <details>
 <summary>정답</summary>
@@ -82,7 +82,7 @@ float 8자리하고 반올림
 
 #### 문제 5
 
-![문제5](/img/%EB%AC%B8%EC%A0%9C5.png)
+![문제5](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C5.png)
 
 <details>
 <summary>정답</summary>
@@ -93,7 +93,7 @@ true <br>
 
 #### 문제 6
 
-![문제6](/img/%EB%AC%B8%EC%A0%9C6.png)
+![문제6](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C6.png)
 
 <details>
 <summary>정답</summary>
@@ -103,7 +103,7 @@ true <br>
 
 #### 문제 7
 
-![문제7](/img/%EB%AC%B8%EC%A0%9C7.png)
+![문제7](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C7.png)
 
 <details>
 <summary>정답</summary>
@@ -130,7 +130,7 @@ true <br>
 
 #### 문제 8
 
-![문제8](/img/%EB%AC%B8%EC%A0%9C8.png)
+![문제8](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C8.png)
 
 <details>
 <summary>정답</summary>
@@ -139,7 +139,7 @@ true <br>
 
 #### 문제 9
 
-![문제9](/img/%EB%AC%B8%EC%A0%9C9.png)
+![문제9](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C9.png)
 
 <details>
 <summary>정답</summary>
@@ -148,7 +148,7 @@ true <br>
 
 #### 문제 10
 
-![문제10](/img/%EB%AC%B8%EC%A0%9C10.png)
+![문제10](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C10.png)
 
 <details>
 <summary>정답</summary>
@@ -157,7 +157,7 @@ true <br>
 
 #### 문제 11
 
-![문제11](/img/%EB%AC%B8%EC%A0%9C11.png)
+![문제11](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C11.png)
 
 <details>
 <summary>정답</summary>
@@ -171,7 +171,7 @@ true <br>
 
 #### 문제 12
 
-![문제12](/img/%EB%AC%B8%EC%A0%9C12.png)
+![문제12](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C12.png)
 
 <details>
 <summary>정답</summary>
@@ -185,7 +185,7 @@ true <br>
 
 #### 문제 13
 
-![문제13](/img/%EB%AC%B8%EC%A0%9C13.png)
+![문제13](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C13.png)
 
 <details>
 <summary>정답</summary>
@@ -198,7 +198,7 @@ true <br>
 
 #### 문제 14
 
-![문제14](/img/%EB%AC%B8%EC%A0%9C14.png)
+![문제14](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C14.png)
 
 <details>
 <summary>정답</summary>
@@ -212,7 +212,7 @@ true <br>
 
 #### 문제 15
 
-![문제15](/img/%EB%AC%B8%EC%A0%9C15.png)
+![문제15](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C15.png)
 
 <details>
 <summary>정답</summary>
@@ -222,7 +222,7 @@ true <br>
 
 #### 문제 16
 
-![문제16](/img/%EB%AC%B8%EC%A0%9C16.png)
+![문제16](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C16.png)
 
 <details>
 <summary>정답</summary>
@@ -232,7 +232,7 @@ true <br>
 
 #### 문제 17
 
-![문제17](/img/%EB%AC%B8%EC%A0%9C17.png)
+![문제17](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C17.png)
 
 <details>
 <summary>정답</summary>
@@ -241,7 +241,7 @@ true <br>
 
 #### 문제 18
 
-![문제18](/img/%EB%AC%B8%EC%A0%9C18.png)
+![문제18](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C18.png)
 
 <details>
 <summary>정답</summary>
@@ -253,7 +253,7 @@ false <br>
 
 #### 문제 19
 
-![문제19](/img/%EB%AC%B8%EC%A0%9C19.png)
+![문제19](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C19.png)
 
 <details>
 <summary>정답</summary>

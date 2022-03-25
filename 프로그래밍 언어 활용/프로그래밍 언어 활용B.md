@@ -108,7 +108,7 @@ main(){
 
 ※ break, continue 차이
 
-![이미지](/img/break_continue.png)
+![이미지](/img/1_programming/break_continue.png)
 
 #### 문제
 

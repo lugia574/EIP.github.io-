@@ -44,7 +44,7 @@ print('c=', c,)
 
   - 다운받아 설치후 사용
 
-![라이브러리](/img/library.png)
+![라이브러리](/img/1_programming/library.png)
 
 #### 문제
 
@@ -124,7 +124,7 @@ print('c=', c,)
     목표를 명시하고 알고리즘은 명시하지 않음
 
 선언형 언어에는 2가지가 있음
-![함수형/논리형](/img/%ED%95%A8%EC%88%98%ED%98%95%2C%EB%85%BC%EB%A6%AC%ED%98%95.png)
+![함수형/논리형](/img/1_programming/%ED%95%A8%EC%88%98%ED%98%95%2C%EB%85%BC%EB%A6%AC%ED%98%95.png)
 
 ※ 선언,명령형 언어란
 
