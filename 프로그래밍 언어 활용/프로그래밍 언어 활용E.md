@@ -35,11 +35,11 @@ finally:
 
 > 예외
 
----
-
-#### 문제 1
+## 종합
 
 이제까지 배웠던것들을 문제로 풀어보자
+
+#### 문제 1
 
 ![문제1](/img/%EB%AC%B8%EC%A0%9C1.png)
 
@@ -186,5 +186,52 @@ true <br>
 
 <details>
 <summary>정답</summary>
-1부터 10까지 합 : 55  <br>
+회사: 나가라자동차  <br>
+자동차명: 투싼  <br>
+색상: 검정  <br>
+최고속도: 300  <br>
+현재속도: 0  <br>
+수정속도: 80  <br>
+</details>
+
+#### 문제 15
+
+![문제15](/img/%EB%AC%B8%EC%A0%9C15.png)
+
+<details>
+<summary>정답</summary>
+1 <br>
+화이팅 <br>
+</details>
+
+#### 문제 16
+
+![문제16](/img/%EB%AC%B8%EC%A0%9C16.png)
+
+<details>
+<summary>정답</summary>
+부모 클래스입니다. <br>
+자식 클래스입니다. <br>
+</details>
+
+#### 문제 17
+
+![문제17](/img/%EB%AC%B8%EC%A0%9C17.png)
+
+<details>
+<summary>정답</summary>
+a 가<br>
+</details>
+
+#### 문제 18
+
+![문제19](/img/%EB%AC%B8%EC%A0%9C19.png)
+
+<details>
+<summary>정답</summary>
+10 <br>
+20 <br>
+30 <br>
+40 <br>
+50 <br>
 </details>
