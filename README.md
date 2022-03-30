@@ -57,3 +57,7 @@ Engineer Information Processing
 2. [요구사항 확인 B](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8B.md)
 
 3. [요구사항 확인 C](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8C.md)
+
+### 섹션 2. 데이터 입·출력 구현
+
+1. [데이터 입·출력 구현 A]()
