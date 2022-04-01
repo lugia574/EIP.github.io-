@@ -20,7 +20,7 @@ finally:
     print('무조건 실행할 코드 마무리~')
 ```
 
-#### 문제
+### 문제
 
     프로그래밍 코딩과 관련된 다음 설명에서 괄호에 공통으로 들어갈 가장 적합한 용어를 쓰시오.
 
@@ -39,7 +39,7 @@ finally:
 
 이제까지 배웠던것들을 문제로 풀어보자
 
-#### 문제 1
+### 문제 1
 
 ![문제1](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C1.png)
 
@@ -48,7 +48,7 @@ finally:
 A + A + A
 </details>
 
-#### 문제 2
+### 문제 2
 
 ![문제2](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C2.png)
 
@@ -57,7 +57,7 @@ A + A + A
 10 10 10
 </details>
 
-#### 문제 3
+### 문제 3
 
 ![문제3](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C3.png)
 
@@ -70,7 +70,7 @@ float 8자리하고 반올림
 
 </details>
 
-#### 문제 4
+### 문제 4
 
 ![문제4](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C4.png)
 
@@ -80,7 +80,7 @@ float 8자리하고 반올림
 11 21 20
 </details>
 
-#### 문제 5
+### 문제 5
 
 ![문제5](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C5.png)
 
@@ -91,7 +91,7 @@ false <br>
 true <br>
 </details>
 
-#### 문제 6
+### 문제 6
 
 ![문제6](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C6.png)
 
@@ -101,7 +101,7 @@ true <br>
 2 또는 3의 배수입니다.<br>
 </details>
 
-#### 문제 7
+### 문제 7
 
 ![문제7](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C7.png)
 
@@ -128,7 +128,7 @@ true <br>
 
     이렇게 됨
 
-#### 문제 8
+### 문제 8
 
 ![문제8](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C8.png)
 
@@ -137,7 +137,7 @@ true <br>
 90 A  <br>
 </details>
 
-#### 문제 9
+### 문제 9
 
 ![문제9](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C9.png)
 
@@ -146,7 +146,7 @@ true <br>
 3번입니다.  <br>
 </details>
 
-#### 문제 10
+### 문제 10
 
 ![문제10](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C10.png)
 
@@ -155,7 +155,7 @@ true <br>
 1부터 10까지 합 : 55  <br>
 </details>
 
-#### 문제 11
+### 문제 11
 
 ![문제11](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C11.png)
 
@@ -169,7 +169,7 @@ true <br>
 종료 5 <br>
 </details>
 
-#### 문제 12
+### 문제 12
 
 ![문제12](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C12.png)
 
@@ -183,7 +183,7 @@ true <br>
 홀수의 합 25  <br>
 </details>
 
-#### 문제 13
+### 문제 13
 
 ![문제13](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C13.png)
 
@@ -196,7 +196,7 @@ true <br>
  배열의 길이 3  <br>
 </details>
 
-#### 문제 14
+### 문제 14
 
 ![문제14](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C14.png)
 
@@ -210,7 +210,7 @@ true <br>
 수정속도: 80  <br>
 </details>
 
-#### 문제 15
+### 문제 15
 
 ![문제15](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C15.png)
 
@@ -220,7 +220,7 @@ true <br>
 화이팅 <br>
 </details>
 
-#### 문제 16
+### 문제 16
 
 ![문제16](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C16.png)
 
@@ -230,7 +230,7 @@ true <br>
 자식 클래스입니다. <br>
 </details>
 
-#### 문제 17
+### 문제 17
 
 ![문제17](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C17.png)
 
@@ -239,7 +239,7 @@ true <br>
 80 가<br>
 </details>
 
-#### 문제 18
+### 문제 18
 
 ![문제18](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C18.png)
 
@@ -251,7 +251,7 @@ false <br>
 
 </details>
 
-#### 문제 19
+### 문제 19
 
 ![문제19](/img/1_programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C19.png)
 
