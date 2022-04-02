@@ -65,3 +65,8 @@ Engineer Information Processing
 2. [데이터 입·출력 구현 B](https://github.com/lugia574/EIP.github.io-/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%C2%B7%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%C2%B7%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84B.md)
 
 3. [데이터 입·출력 구현 C](https://github.com/lugia574/EIP.github.io-/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%C2%B7%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%C2%B7%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84C.md)
+
+### 섹션 3. 통합 구현
+
+1. [통합 구현 A]()
+2. [통합 구현 B]()
