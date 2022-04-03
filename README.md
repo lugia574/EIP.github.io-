@@ -73,4 +73,4 @@ Engineer Information Processing
 
 ### 섹션 4. 서버 프로그램 구현
 
-1. [서버 프로그램 구현]()
+1. [서버 프로그램 구현](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B5%AC%ED%98%84/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B5%AC%ED%98%84A.md)
