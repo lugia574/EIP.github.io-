@@ -82,6 +82,11 @@ Engineer Information Processing
 
 ### 섹션 6. 애플리케이션 테스트 관리
 
-1. [애플리케이션 테스트 관리 A]()
-1. [애플리케이션 테스트 관리 B]()
-1. [애플리케이션 테스트 관리 C]()
+1. [애플리케이션 테스트 관리 A](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%ACA.md)
+1. [애플리케이션 테스트 관리 B](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%ACB.md)
+1. [애플리케이션 테스트 관리 C](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%ACC.md)
+
+### 섹션 7. SQL 응용
+
+1. [SQL 응용 A]()
+1. [SQL 응용 B]()
