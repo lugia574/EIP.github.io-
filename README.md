@@ -77,5 +77,11 @@ Engineer Information Processing
 
 ### 섹션 5. 화면 설계
 
-1. [화면 설계 A]()
-2. [화면 설계 B]()
+1. [화면 설계 A](https://github.com/lugia574/EIP.github.io-/blob/main/%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84/%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84A.md)
+2. [화면 설계 B](https://github.com/lugia574/EIP.github.io-/blob/main/%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84/%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84B.md)
+
+### 섹션 6. 애플리케이션 테스트 관리
+
+1. [애플리케이션 테스트 관리 A]()
+1. [애플리케이션 테스트 관리 B]()
+1. [애플리케이션 테스트 관리 C]()
