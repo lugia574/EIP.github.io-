@@ -88,5 +88,10 @@ Engineer Information Processing
 
 ### 섹션 7. SQL 응용
 
-1. [SQL 응용 A]()
-1. [SQL 응용 B]()
+1. [SQL 응용 A](https://github.com/lugia574/EIP.github.io-/blob/main/7.SQL%20%EC%9D%91%EC%9A%A9/SQL%20%EC%9D%91%EC%9A%A9%20A.md)
+1. [SQL 응용 B](https://github.com/lugia574/EIP.github.io-/blob/main/7.SQL%20%EC%9D%91%EC%9A%A9/SQL%20%EC%9D%91%EC%9A%A9%20B.md)
+
+### 섹션 8. 소프트웨어 개발 보안 구축 A
+
+1. [소프트웨어 개발 보안 구축 A]()
+1. [소프트웨어 개발 보안 구축 B]()
