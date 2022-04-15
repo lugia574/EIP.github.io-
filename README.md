@@ -102,3 +102,8 @@ Engineer Information Processing
 1. [응용 SW 기초 기술 활용 B](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20B.md)
 1. [응용 SW 기초 기술 활용 C](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20C.md)
 1. [응용 SW 기초 기술 활용 D](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20D.md)
+
+### 섹션 10. 제품 소프트웨어 패키징
+
+1. [제품 소프트웨어 패키징 A]()
+1. [제품 소프트웨어 패키징 B]()
