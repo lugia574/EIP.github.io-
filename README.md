@@ -93,5 +93,12 @@ Engineer Information Processing
 
 ### 섹션 8. 소프트웨어 개발 보안 구축 A
 
-1. [소프트웨어 개발 보안 구축 A]()
-1. [소프트웨어 개발 보안 구축 B]()
+1. [소프트웨어 개발 보안 구축 A](https://github.com/lugia574/EIP.github.io-/blob/main/8.%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EB%B3%B4%EC%95%88%20%EA%B5%AC%EC%B6%95/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C%20%EB%B3%B4%EC%95%88%20%EA%B5%AC%EC%B6%95%20A.md)
+1. [소프트웨어 개발 보안 구축 B](https://github.com/lugia574/EIP.github.io-/blob/main/8.%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EB%B3%B4%EC%95%88%20%EA%B5%AC%EC%B6%95/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C%20%EB%B3%B4%EC%95%88%20%EA%B5%AC%EC%B6%95%20B.md)
+
+### 섹션 9. 응용 SW 기초 기술 활용
+
+1. [응용 SW 기초 기술 활용 A](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20A.md)
+1. [응용 SW 기초 기술 활용 B](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20B.md)
+1. [응용 SW 기초 기술 활용 C](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20C.md)
+1. [응용 SW 기초 기술 활용 D](https://github.com/lugia574/EIP.github.io-/blob/main/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9%20D.md)
