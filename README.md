@@ -107,3 +107,9 @@ Engineer Information Processing
 
 1. [제품 소프트웨어 패키징 A](https://github.com/lugia574/EIP.github.io-/blob/main/10.%EC%A0%9C%ED%92%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95/%EC%A0%9C%ED%92%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95A.md)
 1. [제품 소프트웨어 패키징 B](https://github.com/lugia574/EIP.github.io-/blob/main/10.%EC%A0%9C%ED%92%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95/%EC%A0%9C%ED%92%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95B.md)
+
+## 정처기 중요성 파트
+
+![](/img/KakaoTalk_20220419_134535805_02.jpg)
+![](/img/KakaoTalk_20220419_134535805_01.jpg)
+![](/img/KakaoTalk_20220419_134535805.jpg)
