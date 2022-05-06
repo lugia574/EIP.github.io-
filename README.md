@@ -6,22 +6,6 @@ Engineer Information Processing
 
 지금부터 정보처리기사 준비를 하겠다. 아쎼이!
 
-정보처리기사는 비전공자인 내가 IT 업계에서 밥 벌어 먹기 위한 시민권과 같다.
-
-이것을 따지 않고 업계에서 살아가는건 좀 과장보태서 불법체류자와 같다.
-
-물론 정보처리기사가 없다고 취업을 못하는건 아니다.
-
-하지만 필기까지 딴 마당에 실기를 안한다는건
-
-나 이철욱이라는 사람에게는 용납될 수 없다.
-
-조져버리겠다 정처기.
-
-나의 매서운 정답에 오들오들 떨 준비나 하거라.
-
-기열.
-
 ## 자료
 
 공부자료는
@@ -37,6 +21,11 @@ Engineer Information Processing
 등이 있다.
 
 ## 정보처리기사 목차
+
+### 정리
+
+1. [대충](https://github.com/lugia574/EIP.github.io-/blob/main/%EB%8C%80%EC%B6%A9.md)
+1. [대충2](https://github.com/lugia574/EIP.github.io-/blob/main/%EB%8C%80%EC%B6%A92.md)
 
 ### 섹션 0. 프로그래밍 언어 활용
 
