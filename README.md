@@ -18,6 +18,8 @@ Engineer Information Processing
 
 - [코딩하는 핑가](https://ss-o.tistory.com/110?category=967966)
 
+- [정처기 실기 요약](https://blog.naver.com/alrud1045/222388270978)
+
 등이 있다.
 
 ## 정보처리기사 목차
